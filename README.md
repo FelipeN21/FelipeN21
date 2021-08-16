@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/FelipeN21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeN21&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img align="right" alt="Felipe-gif" height="200" width="250" src="https://lh3.googleusercontent.com/proxy/gsJXIzXXgwiz1hNzSLTIGR__l1-wSsPRroO2Jl0kIaxC24hb9lJTKbfC82pv4NFaaSkfoAVsHQBnf7Qns70u_3GypV0QPmAnsDJyFDpR9jCs50VwXeFTlR0qbB74mpo_MYzBJ7P6bcBSmkKaDm-olA">
+   <img align="right" alt="Felipe-gif" height="182" width="250" src="https://lh3.googleusercontent.com/proxy/gsJXIzXXgwiz1hNzSLTIGR__l1-wSsPRroO2Jl0kIaxC24hb9lJTKbfC82pv4NFaaSkfoAVsHQBnf7Qns70u_3GypV0QPmAnsDJyFDpR9jCs50VwXeFTlR0qbB74mpo_MYzBJ7P6bcBSmkKaDm-olA">
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeN21&langs_count=8"/>-->
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeN21&hide="/> -->
 </div>
