@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 #### Computer Science 3/8 💻📚
 
 - 🔭 I’m currently studying Computer Science in PUC-Minas
-- ⚡ Fun fact: I love Java
-- 👯 I’m looking to collaborate on Open Source projects
+- ⚡ Fun fact: Java is my favourite programming language
+- 🤝 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: "felipenepomuceno21@hotmail.com"
 
 <div>
