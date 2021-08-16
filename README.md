@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hi! I'm Felipe Nepomuceno
 #### Computer Science 3/8 💻📚
 
-- 🔭 I’m currently studying Computer Science in PUC-Minas
+- 🔭 I’m currently studying Computer Science at PUC-Minas
 - ⚡ Fun fact: Java is my favourite programming language
 - 🤝 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: "felipenepomuceno21@hotmail.com"
