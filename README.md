@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   ##
   
   <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeN21&langs_count=8&theme=midnight-purple"/>
+  <img height="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeN21&langs_count=8&theme=midnight-purple"/>
   </div>
   
   
