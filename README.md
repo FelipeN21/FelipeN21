@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### Computer Science 4/8 💻📚
 
 - 🔭 I’m currently studying Computer Science at PUC-Minas
-- ⚡ Fun fact: Java is my favourite programming language
+- ⚡ Fun fact: C# is my favourite programming language
 - 🤝 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: "felipenepomuceno21@hotmail.com"
 
