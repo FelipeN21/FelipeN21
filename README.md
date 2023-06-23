@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi! I'm Felipe Nepomuceno
-#### Computer Science 6/8 💻📚
+#### Computer Science 7/8 💻📚
 
 - 🔭 I’m currently studying Computer Science at PUC-Minas
 - ⚡ Fun fact: C# is my favourite programming language
