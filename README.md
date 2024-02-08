@@ -53,9 +53,9 @@ Here are some ideas to get you started:
   
   ##
   
-  <div>
-  <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeN21&langs_count=8&theme=midnight-purple"/>
-  </div>
+  <!--<div>-->
+  <!--<img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeN21&langs_count=8&theme=midnight-purple"/>-->
+  <!--</div>-->
   
   
    ##
