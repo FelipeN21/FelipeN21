@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hi! I'm Felipe Nepomuceno
 #### Computer Science Bachelor 💻📚
 
-- 💻 I’m currently working as a fullstack developer
+- 💻 I’m currently working as a Full-Stack Developer
 - ⚡ Fun fact: C# is my favourite programming language
 - 🤝 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: "felipenepomuceno21@hotmail.com"
