@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/FelipeN21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeN21&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img align="right" alt="Felipe-gif" height="181" width="250" src="https://cdn.discordapp.com/attachments/684903546906476556/1346880517944901715/image.png?ex=67c9cbbb&is=67c87a3b&hm=3d25b35b16df28414b93f5debe8eb0a8d11c193a374fe9b6f7475a502ed8b114&">
   
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeN21&hide="/> -->
 </div>
@@ -66,4 +65,13 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/felipe-nepomuceno-coelho-57908a1b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
+</div>
+<br>
+<br>
+<div style="display: flex; gap: 20px;">
+   <img  alt="Felipe-gif" height="80" width="110" src="https://cdn.discordapp.com/attachments/684903546906476556/1346881014173012010/image.png?ex=67c9cc31&is=67c87ab1&hm=859dc74bd6eb90c7856c6e58828856de64fde6235e300ec7cac0fe4eb3e51b66&">
+   <img  alt="Felipe-gif" height="80" width="110" src="https://cdn.discordapp.com/attachments/684903546906476556/1346881014173012010/image.png?ex=67c9cc31&is=67c87ab1&hm=859dc74bd6eb90c7856c6e58828856de64fde6235e300ec7cac0fe4eb3e51b66&">
+   <img alt="Felipe-gif" height="80" width="110" src="https://cdn.discordapp.com/attachments/684903546906476556/1346881014173012010/image.png?ex=67c9cc31&is=67c87ab1&hm=859dc74bd6eb90c7856c6e58828856de64fde6235e300ec7cac0fe4eb3e51b66&">
+   <img  alt="Felipe-gif" height="80" width="110" src="https://cdn.discordapp.com/attachments/684903546906476556/1346881014173012010/image.png?ex=67c9cc31&is=67c87ab1&hm=859dc74bd6eb90c7856c6e58828856de64fde6235e300ec7cac0fe4eb3e51b66&">
+   <img  alt="Felipe-gif" height="80" width="110" src="https://cdn.discordapp.com/attachments/684903546906476556/1346881014173012010/image.png?ex=67c9cc31&is=67c87ab1&hm=859dc74bd6eb90c7856c6e58828856de64fde6235e300ec7cac0fe4eb3e51b66&">
 </div>
