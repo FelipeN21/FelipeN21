@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/FelipeN21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeN21&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img align="right" alt="Felipe-gif" height="181" width="250" src="https://cdn.discordapp.com/attachments/684903546906476556/876944133028212797/dsBuffer.bmp.png">
+   <img align="right" alt="Felipe-gif" height="181" width="250" src="https://cdn.discordapp.com/attachments/684903546906476556/876944133028212797/dsBuffer.bmp.png](https://media2.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=6c09b952g99bqrzo15lvttuf3joc1xub054dtp7qd9sb14pg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)">
   
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeN21&hide="/> -->
 </div>
