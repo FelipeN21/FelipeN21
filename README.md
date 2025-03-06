@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/FelipeN21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeN21&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeN21&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeN21&hide="/> -->
 </div>
